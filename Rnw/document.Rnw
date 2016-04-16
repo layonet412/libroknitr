@@ -1,0 +1,14 @@
+\documentclass[10pt]{beamer}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{helvet}
+\begin{document}
+	Código de \LaTeX{} normal, puede utilizar cualquier plantilla.
+	<<>>=
+	# Crea una secuencia de números
+	X = 2:50
+	# Muestra las medidas estadisticas basicas
+	summary(X)
+	@
+\end{document}

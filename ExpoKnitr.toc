@@ -1,0 +1,20 @@
+\beamer@endinputifotherversion {3.36pt}
+\select@language {english}
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{About the Author}{8}{0}{1}
+\beamer@sectionintoc {2}{Installation}{12}{0}{2}
+\beamer@subsectionintoc {2}{1}{Example Knitr - code}{13}{0}{2}
+\beamer@subsectionintoc {2}{2}{Example Knitr - result}{14}{0}{2}
+\beamer@sectionintoc {3}{Reproducible Research}{15}{0}{3}
+\beamer@subsectionintoc {3}{1}{Literature}{17}{0}{3}
+\beamer@subsectionintoc {3}{2}{Good and Bad Practices}{20}{0}{3}
+\beamer@subsectionintoc {3}{3}{Barriers}{21}{0}{3}
+\beamer@sectionintoc {4}{A First Look}{22}{0}{4}
+\beamer@subsectionintoc {4}{1}{Setup}{22}{0}{4}
+\beamer@subsectionintoc {4}{2}{Minimal Examples}{23}{0}{4}
+\beamer@subsectionintoc {4}{3}{Quick Reporting}{25}{0}{4}
+\beamer@subsectionintoc {4}{4}{Extracting R Code}{26}{0}{4}
+\beamer@sectionintoc {5}{Feedback}{27}{0}{5}
+\beamer@subsectionintoc {5}{1}{Questions, Comments and Suggestions}{27}{0}{5}
+\beamer@subsectionintoc {5}{2}{Contact Information}{28}{0}{5}
+\beamer@sectionintoc {6}{Bibliography}{29}{0}{6}
